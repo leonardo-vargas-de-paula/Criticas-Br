@@ -1,2 +1,3 @@
 # Criticas-Br
-Trabalho de Prog Web. Angular 19 e Spring Boot.
+Trabalho da disciplina de Programação web.
+Será adicionado ao repositório novas features e os protótipos das telas principais.
